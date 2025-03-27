@@ -1,1 +1,1 @@
-# Predicting Hotel Res Cancellations
+# Predicting Hotel Reservation Cancellations

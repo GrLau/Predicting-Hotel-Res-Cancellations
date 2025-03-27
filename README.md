@@ -23,3 +23,5 @@ This repository contains Jupyter notebooks that apply machine learning technique
   - SHAP (SHapley Additive exPlanations) analysis
   - Visualizing feature contributions through beeswarm plots and other interpretability techniques
  
+### References:
+Raza, Ahsan. “Hotel Reservations Dataset.” Www.kaggle.com, www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset.

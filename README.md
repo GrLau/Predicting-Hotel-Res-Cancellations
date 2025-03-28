@@ -1,6 +1,8 @@
 # Predicting Hotel Reservation Cancellations
 This repository contains Jupyter notebooks that apply machine learning techniques to predict hotel reservation cancellations. The dataset used is slightly imbalanced, so we employ various strategies to address this issue, including class weighting and resampling methods.
 
+You can read the published article here: https://jhss.scholasticahq.com/article/133741-hotel-reservation-cancellations-predictive-modeling-and-feature-impact-analysis
+
 ## Features of the Project
 - **Machine Learning Models**:
   - Logistic Regression
